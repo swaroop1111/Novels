@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:identifier" content="8e52d846-6c45-4ac2-a8b2-c5af3e3629fc" />
+    <meta name="ncc:generator" content="Obi v3.0.0.29628 with toolkit: UrakawaSDK.core v2.0.0.0 (http://urakawa.sf.net/obi)" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="ncc:totalElapsedTime" content="08:39:45.9953062" />
+    <meta name="ncc:timeInThisSmil" content="00:11:06.8808844" />
+    <layout>
+      <region id="textView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="sq4394" dur="666.880s">
+      <par endsync="last" id="pr4395">
+        <text id="txt4396" src="ncc.html#h4393" />
+        <seq id="sq4397">
+          <audio src="aud022.mp3" clip-begin="npt=0s" clip-end="npt=1.528s" id="aud4398" />
+          <audio src="aud022.mp3" clip-begin="npt=1.528s" clip-end="npt=3.893s" id="aud4399" />
+          <audio src="aud022.mp3" clip-begin="npt=3.893s" clip-end="npt=14.219s" id="aud4400" />
+          <audio src="aud022.mp3" clip-begin="npt=14.219s" clip-end="npt=22.336s" id="aud4401" />
+          <audio src="aud022.mp3" clip-begin="npt=22.336s" clip-end="npt=29.542s" id="aud4402" />
+          <audio src="aud022.mp3" clip-begin="npt=29.542s" clip-end="npt=38.576s" id="aud4403" />
+          <audio src="aud022.mp3" clip-begin="npt=38.576s" clip-end="npt=52.777s" id="aud4404" />
+          <audio src="aud022.mp3" clip-begin="npt=52.777s" clip-end="npt=62.978s" id="aud4405" />
+          <audio src="aud022.mp3" clip-begin="npt=62.978s" clip-end="npt=68.595s" id="aud4406" />
+          <audio src="aud022.mp3" clip-begin="npt=68.595s" clip-end="npt=78.213s" id="aud4407" />
+          <audio src="aud022.mp3" clip-begin="npt=78.213s" clip-end="npt=83.288s" id="aud4408" />
+          <audio src="aud022.mp3" clip-begin="npt=83.288s" clip-end="npt=95.114s" id="aud4409" />
+          <audio src="aud022.mp3" clip-begin="npt=95.114s" clip-end="npt=98.591s" id="aud4410" />
+          <audio src="aud022.mp3" clip-begin="npt=98.591s" clip-end="npt=100.949s" id="aud4411" />
+          <audio src="aud022.mp3" clip-begin="npt=100.949s" clip-end="npt=105.049s" id="aud4412" />
+          <audio src="aud022.mp3" clip-begin="npt=105.049s" clip-end="npt=111.999s" id="aud4413" />
+          <audio src="aud022.mp3" clip-begin="npt=111.999s" clip-end="npt=123.992s" id="aud4414" />
+          <audio src="aud022.mp3" clip-begin="npt=123.992s" clip-end="npt=133.485s" id="aud4415" />
+        </seq>
+      </par>
+      <par endsync="last" id="pr4417">
+        <text id="txt4418" src="ncc.html#p4416" />
+      </par>
+      <par endsync="last" id="pr4419">
+        <text id="txt4420" src="ncc.html#h4393" />
+        <seq id="sq4421">
+          <audio src="aud022.mp3" clip-begin="npt=133.485s" clip-end="npt=138.6s" id="aud4422" />
+          <audio src="aud022.mp3" clip-begin="npt=138.6s" clip-end="npt=144.94s" id="aud4423" />
+          <audio src="aud022.mp3" clip-begin="npt=144.94s" clip-end="npt=148.04s" id="aud4424" />
+          <audio src="aud022.mp3" clip-begin="npt=148.04s" clip-end="npt=153.143s" id="aud4425" />
+          <audio src="aud022.mp3" clip-begin="npt=153.143s" clip-end="npt=169.342s" id="aud4426" />
+          <audio src="aud022.mp3" clip-begin="npt=169.342s" clip-end="npt=174.418s" id="aud4427" />
+          <audio src="aud022.mp3" clip-begin="npt=174.418s" clip-end="npt=187.995s" id="aud4428" />
+          <audio src="aud022.mp3" clip-begin="npt=187.995s" clip-end="npt=198.446s" id="aud4429" />
+          <audio src="aud022.mp3" clip-begin="npt=198.446s" clip-end="npt=213.647s" id="aud4430" />
+          <audio src="aud022.mp3" clip-begin="npt=213.647s" clip-end="npt=217.515s" id="aud4431" />
+          <audio src="aud022.mp3" clip-begin="npt=217.515s" clip-end="npt=233.049s" id="aud4432" />
+          <audio src="aud022.mp3" clip-begin="npt=233.049s" clip-end="npt=248s" id="aud4433" />
+          <audio src="aud022.mp3" clip-begin="npt=248s" clip-end="npt=262.87s" id="aud4434" />
+          <audio src="aud022.mp3" clip-begin="npt=262.87s" clip-end="npt=269.904s" id="aud4435" />
+          <audio src="aud022.mp3" clip-begin="npt=269.904s" clip-end="npt=277.314s" id="aud4436" />
+          <audio src="aud022.mp3" clip-begin="npt=277.314s" clip-end="npt=281.974s" id="aud4437" />
+          <audio src="aud022.mp3" clip-begin="npt=281.974s" clip-end="npt=288.55s" id="aud4438" />
+          <audio src="aud022.mp3" clip-begin="npt=288.55s" clip-end="npt=308.3s" id="aud4439" />
+        </seq>
+      </par>
+      <par endsync="last" id="pr4441">
+        <text id="txt4442" src="ncc.html#p4440" />
+      </par>
+      <par endsync="last" id="pr4443">
+        <text id="txt4444" src="ncc.html#h4393" />
+        <seq id="sq4445">
+          <audio src="aud022.mp3" clip-begin="npt=308.3s" clip-end="npt=316.665s" id="aud4446" />
+          <audio src="aud022.mp3" clip-begin="npt=316.665s" clip-end="npt=326.51s" id="aud4447" />
+          <audio src="aud022.mp3" clip-begin="npt=326.51s" clip-end="npt=338.877s" id="aud4448" />
+          <audio src="aud022.mp3" clip-begin="npt=338.877s" clip-end="npt=347.034s" id="aud4449" />
+          <audio src="aud022.mp3" clip-begin="npt=347.034s" clip-end="npt=357.359s" id="aud4450" />
+          <audio src="aud022.mp3" clip-begin="npt=357.359s" clip-end="npt=374.937s" id="aud4451" />
+          <audio src="aud022.mp3" clip-begin="npt=374.937s" clip-end="npt=386.604s" id="aud4452" />
+          <audio src="aud022.mp3" clip-begin="npt=386.604s" clip-end="npt=390.349s" id="aud4453" />
+          <audio src="aud022.mp3" clip-begin="npt=390.349s" clip-end="npt=395.599s" id="aud4454" />
+          <audio src="aud022.mp3" clip-begin="npt=395.599s" clip-end="npt=417.684s" id="aud4455" />
+          <audio src="aud022.mp3" clip-begin="npt=417.684s" clip-end="npt=423.508s" id="aud4456" />
+          <audio src="aud022.mp3" clip-begin="npt=423.508s" clip-end="npt=437.501s" id="aud4457" />
+          <audio src="aud022.mp3" clip-begin="npt=437.501s" clip-end="npt=450.786s" id="aud4458" />
+          <audio src="aud022.mp3" clip-begin="npt=450.786s" clip-end="npt=452.761s" id="aud4459" />
+          <audio src="aud022.mp3" clip-begin="npt=452.761s" clip-end="npt=461.448s" id="aud4460" />
+          <audio src="aud022.mp3" clip-begin="npt=461.448s" clip-end="npt=472.446s" id="aud4461" />
+          <audio src="aud022.mp3" clip-begin="npt=472.446s" clip-end="npt=474.806s" id="aud4462" />
+          <audio src="aud022.mp3" clip-begin="npt=474.806s" clip-end="npt=486.632s" id="aud4463" />
+          <audio src="aud022.mp3" clip-begin="npt=486.632s" clip-end="npt=490.849s" id="aud4464" />
+        </seq>
+      </par>
+      <par endsync="last" id="pr4466">
+        <text id="txt4467" src="ncc.html#p4465" />
+      </par>
+      <par endsync="last" id="pr4468">
+        <text id="txt4469" src="ncc.html#h4393" />
+        <seq id="sq4470">
+          <audio src="aud022.mp3" clip-begin="npt=490.849s" clip-end="npt=497.175s" id="aud4471" />
+          <audio src="aud022.mp3" clip-begin="npt=497.175s" clip-end="npt=509.75s" id="aud4472" />
+          <audio src="aud022.mp3" clip-begin="npt=509.75s" clip-end="npt=520.284s" id="aud4473" />
+          <audio src="aud022.mp3" clip-begin="npt=520.284s" clip-end="npt=532.782s" id="aud4474" />
+          <audio src="aud022.mp3" clip-begin="npt=532.782s" clip-end="npt=544.694s" id="aud4475" />
+          <audio src="aud022.mp3" clip-begin="npt=544.694s" clip-end="npt=549.309s" id="aud4476" />
+          <audio src="aud022.mp3" clip-begin="npt=549.309s" clip-end="npt=556.652s" id="aud4477" />
+          <audio src="aud022.mp3" clip-begin="npt=556.652s" clip-end="npt=566.228s" id="aud4478" />
+          <audio src="aud022.mp3" clip-begin="npt=566.228s" clip-end="npt=581.595s" id="aud4479" />
+          <audio src="aud022.mp3" clip-begin="npt=581.595s" clip-end="npt=593.53s" id="aud4480" />
+          <audio src="aud022.mp3" clip-begin="npt=593.53s" clip-end="npt=603.273s" id="aud4481" />
+          <audio src="aud022.mp3" clip-begin="npt=603.273s" clip-end="npt=612.141s" id="aud4482" />
+          <audio src="aud022.mp3" clip-begin="npt=612.141s" clip-end="npt=616.754s" id="aud4483" />
+          <audio src="aud022.mp3" clip-begin="npt=616.754s" clip-end="npt=623.871s" id="aud4484" />
+          <audio src="aud022.mp3" clip-begin="npt=623.871s" clip-end="npt=634.866s" id="aud4485" />
+          <audio src="aud022.mp3" clip-begin="npt=634.866s" clip-end="npt=645.359s" id="aud4486" />
+          <audio src="aud022.mp3" clip-begin="npt=645.359s" clip-end="npt=655.227s" id="aud4487" />
+          <audio src="aud022.mp3" clip-begin="npt=655.227s" clip-end="npt=661.93s" id="aud4488" />
+          <audio src="aud022.mp3" clip-begin="npt=661.93s" clip-end="npt=666.881s" id="aud4489" />
+        </seq>
+      </par>
+      <par endsync="last" id="pr4491">
+        <text id="txt4492" src="ncc.html#p4490" />
+      </par>
+    </seq>
+  </body>
+</smil>
